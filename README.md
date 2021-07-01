@@ -3200,7 +3200,7 @@ You can download the PDF and Epub version of this repository from the latest run
      ```javascript
      this.props.history.push({
        pathname: '/template',
-       search: '?name=sudheer',
+       search: '?name=akki',
        state: { detail: response.data }
      })
      ```
